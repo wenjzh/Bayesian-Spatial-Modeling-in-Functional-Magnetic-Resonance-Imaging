@@ -1,2 +1,3 @@
 # Bayesian-Spatial-Modeling-in-Functional-Magnetic-Resonance-Imaging
-STATS 551 Bayesian Modeling and Computation: Final Project
+Bayesian Modeling and Computation: Final Project
+(Umich-STATS-551-2020-Winter)
